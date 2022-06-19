@@ -8,5 +8,5 @@ spring:
         encrypt:
             enabled: false
         git:
-          uri: https://github.com/arthur-alura/microservice-repo/
+          uri: https://github.com/ti4luciano/microservice-repo/
           search-paths: fornecedor
